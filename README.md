@@ -55,7 +55,7 @@ print(value)
 
 ## Output:
 ![Selection Sort](selectionsort.png)
-![Inertion Sort](inertionsort.png)
+![Inertion Sort](insertionsort.png)
 
 
 ## Result:
